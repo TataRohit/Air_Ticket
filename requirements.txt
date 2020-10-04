@@ -27,7 +27,7 @@ prometheus-client==0.8.0
 pylint==2.6.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
-pytz==2020.1
+pytz==2019.3
 pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.2
